@@ -1,5 +1,5 @@
 # hash-file-node
-hashing columns in a file dynamic
+hashing columns in a file dynamically
 
 install NodeJS
 
