@@ -1,0 +1,14 @@
+{
+    "fileConfigs": [{
+        "fileNamePrefix": "TestFile",
+        "hashColumns": [0, 9]
+        },
+        {
+        "fileNamePrefix": "ABCFile",
+        "hashColumns": [0, 9]
+    }],
+    "hashInputDir": "./unHashedFiles",
+    "hashOutputDir": "./hashedFiles",
+    "unhashInputDir": "./hashedFiles",
+    "unhashOutputDir": "./unhashedOutputFiles"
+}
